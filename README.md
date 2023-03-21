@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Iris 👩🏼‍💻</h1>
 <h3 align="center">A passionate Full-Stack developer from the Netherlands</h3>
-<h6 align="center"> 📫 iris.dijkstra@hotmail.com 📫 </h6>
+<h6 align="center"> iris.dijkstra@hotmail.com </h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
