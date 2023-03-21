@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Iris 👩🏼‍💻</h1>
 <h3 align="center">A passionate Full-Stack developer from the Netherlands</h3>
-<h3 align="center"> 📫 iris.dijkstra@hotmail.com </h3>
+<h6 align="center"> 📫 iris.dijkstra@hotmail.com 📫 </h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iris-dijkstra-a45283133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iris-dijkstra-a45283133" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
