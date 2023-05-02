@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi, I'm Iris 👩🏼 </h1> -->
-<h5 align="center"> Hi, I'm Iris - Full-Stack Developer (jr) from the Netherlands 👩🏼‍💻 </h5>
+<h5 align="center"> Hi, I'm Iris - Full-Stack Developer from the Netherlands 👩🏼‍💻 </h5>
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
